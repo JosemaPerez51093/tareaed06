@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Cargo: " + empleado1.getCargo());
         System.out.println("Número de hijos: " + empleado1.numHijos);
         System.out.println("Sueldo: " + empleado1.calcula_sueldo(1200));
+        System.out.println("PRUEBA DEL FUNCIONAMIENTO DE LA SINCRONIZACION CON GITHUB");
     }
 
 }
